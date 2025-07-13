@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+###le
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Emmanuel from London<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning C/C++<br>- ⚡ In my free time I design electrical audio systems</p>
 
 ###
 
@@ -35,6 +35,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
  
