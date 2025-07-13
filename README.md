@@ -24,7 +24,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###le
+###
 
 <p align="left">I'm Emmanuel from London<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning C/C++<br>- ⚡ In my free time I design electrical audio systems</p>
 
@@ -35,21 +35,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
  
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
