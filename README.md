@@ -36,8 +36,8 @@
 
 <div align="left">
 
-  <script type="module"> import programmingLanguagesLogosjava from 'https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm' </script>
-  <img width="12" />
+  [<script type="module"> import programmingLanguagesLogosjava from 'https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm' </script>
+  <img width="12" />](https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
  
