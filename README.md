@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Emmanuel from London<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning C/C++<br>- ⚡ In my free time I design electrical audio systems</p>
+<p align="left">I'm Emmanuel from London<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 Interested in Software, Systems Engineering, Hardware<br>- ⚡ In my free time I design electrical audio systems</p>
 
 ###
 
